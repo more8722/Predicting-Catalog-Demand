@@ -1,4 +1,4 @@
-# Predicting-Catalog-Demand
+# Predicting-Catalog-Demand(Use Liner Rgression model -Alteryx)
 In this project, you will analyze a business problem in the mail-order catalog business. You're tasked with predicting how much money your company can expect to earn from sending out a catalog to new customers. This task will involve building the model and applying the results in order to provide a recommendation to management.
 The Business Problem
 You recently started working for a company that manufactures and sells high-end home goods. Last year the company sent out its first print catalog, and is preparing to send out this year's catalog in the coming months. The company has 250 new customers from their mailing list that they want to send the catalog to.
